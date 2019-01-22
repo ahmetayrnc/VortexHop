@@ -15,9 +15,9 @@ In Vortex Hop, the main goal is to score as much as you can. Each time you jump 
 - Shader graphs are used to create a the platform color change effect.
 
 ## Links
-Play Store Link:
+Play Store Link: Due to technical difficulties with my computer, the game is not currently on any stores.
 
-Trailer for the game:
+Trailer for the game: https://youtu.be/84TUHTB6T_Y
 
 ## Gallery
 <p align="middle">
